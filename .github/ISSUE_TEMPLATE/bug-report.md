@@ -2,7 +2,7 @@
 name: Bug report
 about: 'Report a problem in existing functionality, including documentation and infrastructure.'
 title: ''
-labels: 'P: default, T: bug'
+labels: 'P: default, T: bug, W: todo'
 assignees: ''
 
 ---

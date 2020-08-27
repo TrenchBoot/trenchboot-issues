@@ -2,7 +2,7 @@
 name: Task
 about: Propose a task that should be done.
 title: ''
-labels: 'P: default, T: task'
+labels: 'P: default, T: task, W: todo'
 assignees: ''
 
 ---

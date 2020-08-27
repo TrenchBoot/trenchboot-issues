@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for a new feature for this project
 title: ''
-labels: 'P: default, T: feature request'
+labels: 'P: default, T: feature request, W: todo'
 assignees: ''
 
 ---
