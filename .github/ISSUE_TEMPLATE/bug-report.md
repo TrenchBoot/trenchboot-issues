@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: 'Report a problem in existing functionality, including documentation and infrastructure.'
+about: Report a problem in existing functionality, including documentation and infrastructure.
 title: ''
 labels: 'P: default, T: bug, W: todo'
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Affected component(s) or functionality**
-_The component or functionality of Trenchboot that is not working as expected._
+_The component or functionality of TrenchBoot that is not working as expected._
 
 **Brief summary**
 _A clear and concise summary of the bug._
@@ -39,7 +39,9 @@ _Add any other context about the problem here._
 _If applicable, any solutions or workarounds you've already tried._
 
 **Relevant documentation you've consulted**
-_A list of links to any relavant documentation you have consulted._
+_A list of links to any relevant documentation you have consulted._
 
 **Related, non-duplicate issues**
-_A list of links to other bug reports, feature requests, or tasks in the trenchboot-issues tracker (or "none" if you didn't find any). Do not describe any other unreported bugs, features, or tasks here._
+_A list of links to other bug reports, feature requests, or tasks in the
+trenchboot-issues tracker (or "none" if you didn't find any). Do not describe
+any other unreported bugs, features, or tasks here._
