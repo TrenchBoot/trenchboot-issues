@@ -8,22 +8,28 @@ assignees: ''
 ---
 
 **The problem you're addressing (if any)**
-_A clear and concise description of the problem, if any, that this enhancement is intended to address._
+_A clear and concise description of the problem, if any, that this enhancement
+is intended to address._
 
 **Describe the solution you'd like**
-_If you have something in mind, a clear and concise description of what you want to happen. If you don't have something in mind, indicate as much._
+_If you have something in mind, a clear and concise description of what you
+want to happen. If you don't have something in mind, indicate as much._
 
 **Where is the value to a user, and who might that user be?**
-_Which users is this most likely to benefit? What user needs does this address? How might a user summarize this change or new thing?_
+_Which users is this most likely to benefit? What user needs does this address?
+How might a user summarize this change or new thing?_
 
 **Describe alternatives you've considered**
-_A clear and concise description of any alternative solutions or features you've considered._
+_A clear and concise description of any alternative solutions or features
+you've considered._
 
 **Additional context**
 _Add any other context or screenshots about the feature request here._
 
 **Relevant documentation you've consulted**
-_A list of links to any relavant documentation you have consulted._
+_A list of links to any relevant documentation you have consulted._
 
-**Related, [non-duplicate] issues**
-_A list of links to other bug reports, feature requests, or tasks in the trenchboot-issues tracker. Do not describe any other unreported bugs, features, or tasks here._
+**Related, non-duplicate issues**
+_A list of links to other bug reports, feature requests, or tasks in the
+trenchboot-issues tracker. Do not describe any other unreported bugs, features,
+or tasks here._
