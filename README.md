@@ -1,11 +1,11 @@
-Trenchboot Issues repository
+TrenchBoot Issues repository
 =======================
 
-This repository tracks issues and feature development progress for the Trenchboot
+This repository tracks issues and feature development progress for the TrenchBoot
  Project. Please take a moment to read the following important information:
 
-* [Trenchboot Home](https://trenchboot.org)
-* [Trenchboot Project](https://github.com/TrenchBoot)
+* [TrenchBoot Home](https://trenchboot.org)
+* [TrenchBoot Project](https://github.com/TrenchBoot)
 * [Documentation](https://github.com/TrenchBoot/documentation)
 * [Contributing](https://github.com/TrenchBoot/documentation/blob/master/CONTRIBUTING.md)
 
