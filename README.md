@@ -6,6 +6,7 @@ following important information:
 
 * [TrenchBoot Home](https://trenchboot.org)
 * [TrenchBoot Project](https://github.com/TrenchBoot)
+* [Matrix Channel](https://matrix.to/#/#OSFW-Trenchboot:matrix.org)
 * [Documentation](https://github.com/TrenchBoot/documentation)
 * [Contributing](https://github.com/TrenchBoot/documentation/blob/master/CONTRIBUTING.md)
 
